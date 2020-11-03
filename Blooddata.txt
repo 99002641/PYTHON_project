@@ -1,0 +1,63 @@
+Name:Geetha
+Phone Num:8596741230
+Mail ID:O
+Blood Group:geeth12@gmail.com
+Amount:100
+
+
+Name:Sangeetha
+Phone Num:8754219852
+Mail ID:A
+Blood Group:sangi98@gmail.com
+Amount:150
+
+
+Name:Ajay
+Phone Num:8553386870
+Mail ID:B
+Blood Group:ajay13@gmail.com
+Amount:200
+
+
+Name:Vijay
+Phone Num:7338109685
+Mail ID:A
+Blood Group:vijay13@gmail.com
+Amount:180
+
+
+Name:Sai
+Phone Num:8529838745
+Mail ID:O
+Blood Group:sai13@gmail.com
+Amount:145
+
+
+Name:Pavan
+Phone Num:9259681456
+Mail ID:A
+Blood Group:pavan13@gmail.com
+Amount:185
+
+
+Name:Akash
+Phone Num:9638521470
+Mail ID:AB
+Blood Group:akash13@gmail.com
+Amount:102
+
+
+Name:Afrose
+Phone Num:9865327414
+Mail ID:A
+Blood Group:afrose13@gmail.com
+Amount:147
+
+
+Name:Smriti
+Phone Num:8596321470
+Mail ID:B
+Blood Group:smriti13@gmail.com
+Amount:124
+
+
